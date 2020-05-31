@@ -1,2 +1,1 @@
-# MyFirstProgram
-Computer Practicum 1
+Computer Practicum 2
